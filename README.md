@@ -16,5 +16,20 @@ ________________________________________________________________________________
 
 Для выполнения задания выбран Quagga.
 
-```vagrant up``` - для разворачивания стенда с OSPF. Проверим маршруты на route1
+```vagrant up``` - для разворачивания стенда с OSPF. 
 
+*Проверим маршруты на route1*
+
+```ip r``` 
+
+```vtysh``` - подключиться к рабочему демону Quagga.
+
+![Img_alt](https://github.com/Edo1993/otus_24/blob/master/241.png)
+
+*Проверим маршруты на route2*
+
+![Img_alt](https://github.com/Edo1993/otus_24/blob/master/242.png)
+
+*Проверим маршруты на route3*
+
+![Img_alt](https://github.com/Edo1993/otus_24/blob/master/243.png)
