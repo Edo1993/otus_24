@@ -1,0 +1,4 @@
+[routers]
+route1 ansible_host=127.0.0.1 ansible_user=vagrant
+route2 ansible_host=127.0.0.1 ansible_user=vagrant
+route3 ansible_host=127.0.0.1 ansible_user=vagrant
